@@ -3,4 +3,14 @@
     src: url('https://github.com/draphael89/custom_fonts_unbounce/blob/301d8901f59c8ca2889f019f659caf893d22f7bb/DrukCond-Super-App.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
+
+    font-family: 'DrukWideBold';
+    src: url('https://github.com/draphael89/custom_fonts_unbounce/blob/301d8901f59c8ca2889f019f659caf893d22f7bb/DrukWide-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+    font-family: 'DrukTextMedium';
+    src: url('https://github.com/draphael89/custom_fonts_unbounce/blob/301d8901f59c8ca2889f019f659caf893d22f7bb/DrukText-Medium-App.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
 }

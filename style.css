@@ -1,20 +1,20 @@
 @font-face {
   font-family: 'DrukCondSuper';
-  src: url('https://github.com/draphael89/custom_fonts_unbounce/blob/301d8901f59c8ca2889f019f659caf893d22f7bb/DrukCond-Super-App.woff2') format('woff2');
+  src: url('https://raw.githubusercontent.com/draphael89/custom_fonts_unbounce/301d8901f59c8ca2889f019f659caf893d22f7bb/DrukCond-Super-App.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'DrukWideBold';
-  src: url('https://github.com/draphael89/custom_fonts_unbounce/blob/8771561fbf09d0f935471928a95d1a3b1b30634d/DrukWide-Bold.woff2') format('woff2');
+  src: url('https://raw.githubusercontent.com/draphael89/custom_fonts_unbounce/b951c6f152c080d8fc7c14cf521e009f389a5337/DrukWide-Bold.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'DrukTextMedium';
-  src: url('https://github.com/draphael89/custom_fonts_unbounce/blob/f481381c0046e05c3035ca6fd0933fac86340cab/DrukText-Medium-App.woff2') format('woff2');
+  src: url('https://raw.githubusercontent.com/draphael89/custom_fonts_unbounce/f481381c0046e05c3035ca6fd0933fac86340cab/DrukText-Medium-App.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
